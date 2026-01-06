@@ -1,7 +1,7 @@
 # Confusion Matrix – Air Quality Alert Prediction
 
 ## 📌 Overview
-This project demonstrates the use of a **Confusion Matrix** to evaluate a classification model that predicts whether air quality conditions are **Safe or Unsafe**.
+This project demonstrates the use of a **Confusion Matrix** to **evaluate a classification model** that predicts whether air quality conditions are **Safe or Unsafe**.
 
 Such systems are useful for **environmental monitoring**, **public health alerts**, and **smart city applications**.
 
